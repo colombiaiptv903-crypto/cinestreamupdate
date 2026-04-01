@@ -1,228 +1,84 @@
-# 📺 CineStream For TV
+# 🎬 CineStream
 
-App Flutter para Android TV con diseño estilo Netflix. Consume el repositorio JSON de CineStream para mostrar canales de TV en vivo, películas y series.
-
----
-
-## 🚀 Requisitos
-
-| Herramienta | Versión mínima |
-|-------------|---------------|
-| Flutter     | 3.16+         |
-| Dart        | 3.0+          |
-| Android SDK | API 21+       |
-| Gradle      | 8.3           |
-| Java        | 11+           |
+**CineStream** es una aplicación de streaming para Android que permite ver Películas, Series, TV en Vivo y Eventos deportivos en directo, con soporte para móviles, tablets y dispositivos Android TV / emuladores.
 
 ---
 
-## 📦 Instalación
+## ✨ Características
 
-### 1. Clonar / Descomprimir el proyecto
-
-```bash
-cd cinestream_tv
-```
-
-### 2. Obtener dependencias
-
-```bash
-flutter pub get
-```
-
-### 3. Preparar icono de la app (opcional pero recomendado)
-
-Reemplaza los archivos en:
-```
-android/app/src/main/res/mipmap-*/ic_launcher.png
-```
-Con el ícono de tu app en los tamaños correctos.
-
-### 4. Compilar para Android TV
-
-#### Debug (para pruebas)
-```bash
-flutter build apk --debug
-```
-
-#### Release
-```bash
-flutter build apk --release
-```
-
-El APK se genera en:
-```
-build/app/outputs/flutter-apk/app-release.apk
-```
+- 🎬 **Películas** — Catálogo completo con filtros por género, año y buscador. Paginación de 30 en 30.
+- 📺 **Series** — Lista de series con selector de episodios y múltiples calidades.
+- 📡 **TV en Vivo** — Canales en directo con mini-player fijo + lista de canales. Favoritos con ⭐.
+- ▶ **Continuar** — Historial de reproducción con progreso guardado automáticamente.
+- 📅 **Eventos** — Agenda de eventos deportivos en vivo cargada en tiempo real. Compatible con móvil y TV.
 
 ---
 
-## 📲 Instalación en dispositivo Android TV
+## 🆕 Novedades por versión
 
-### Via ADB (modo desarrollador activado)
-```bash
-# Conectar al TV por red
-adb connect <IP_DEL_TV>:5555
+### v1.0.5 — Eventos en Vivo
+- ✅ Nueva sección **Eventos** reemplaza al botón Transmitir en la barra de navegación
+- ✅ Carga en tiempo real desde agenda JSON con anti-caché automático
+- ✅ Agrupación por categoría (Fútbol, etc.) con contador de eventos
+- ✅ Badge **EN VIVO** para eventos activos
+- ✅ Búsqueda por título o categoría
+- ✅ Compatible con interfaz **móvil** (bottom nav) y **TV/emulador** (top nav con D-pad)
+- ✅ Al tocar un evento abre el player directamente con el stream
 
-# Instalar la app
-adb install build/app/outputs/flutter-apk/app-release.apk
+### v1.0.4
+- ✨ Navegación de episodios: botones Anterior, Episodios y Siguiente
+- ✨ Selector de episodios con lista completa
+- ✨ Badge con episodio actual (ej: 3/25)
+- ⚡ Botones de episodios en la parte superior (no interfiere con la barra de tiempo)
+- ⚡ Se ocultan automáticamente a los 3 segundos
+- ⚡ Protección del código con ProGuard + ofuscación Dart
+- 🐛 Soporte de múltiples calidades en películas y episodios
 
-# Lanzar directamente
-adb shell am start -n com.cinestream.tv/.MainActivity
-```
+### v1.0.3
+- ✨ Interfaz adaptativa TV / Móvil
+- ✨ Mini-player fijo en TV en Vivo
+- ✨ Favoritos en canales
+- ⚡ Historial con progreso de reproducción
 
-### Via USB
-```bash
-adb install -r build/app/outputs/flutter-apk/app-release.apk
-```
+### v1.0.2
+- ✨ Player híbrido: Chewie (películas/series) + media_kit FFmpeg (TV en vivo)
+- ✨ Intro animada al iniciar la app
 
-### En dispositivos Fire TV (Amazon)
-```bash
-# Mismo proceso pero con el ADB de Fire TV
-adb connect <IP>:5555
-adb install app-release.apk
-```
-
----
-
-## 🎮 Controles del Control Remoto
-
-| Botón | Acción |
-|-------|--------|
-| ▲ Arriba | Mover foco arriba / Subir volumen (en reproductor) |
-| ▼ Abajo | Mover foco abajo / Bajar volumen (en reproductor) |
-| ◀ Izquierda | Mover foco izquierda / Retroceder 10s (en reproductor) |
-| ▶ Derecha | Mover foco derecha / Adelantar 10s (en reproductor) |
-| OK / Enter | Seleccionar / Pausar-Reproducir |
-| Atrás / Back | Volver a pantalla anterior |
-| Play/Pause | Pausar/Reproducir (en reproductor) |
+### v1.0.1
+- 🚀 Lanzamiento inicial
 
 ---
 
-## 🗂 Estructura del Proyecto
+## 📲 Instalación
 
-```
-lib/
-├── main.dart                    # Punto de entrada
-├── theme/
-│   └── app_theme.dart           # Colores, estilos TV
-├── models/
-│   └── media_item.dart          # Modelo de datos universal
-├── services/
-│   ├── api_service.dart         # Carga JSON del repositorio
-│   └── storage_service.dart    # Guarda progreso localmente
-├── providers/
-│   └── app_provider.dart        # Estado global de la app
-├── screens/
-│   ├── home_screen.dart         # Pantalla principal Netflix-style
-│   └── player_screen.dart       # Reproductor de video TV
-└── widgets/
-    ├── tv_focus_widget.dart     # Indicador de foco con glow
-    ├── hero_banner.dart         # Banner destacado superior
-    ├── content_row.dart         # Filas horizontales desplazables
-    └── media_card.dart          # Tarjetas de contenido
-```
+1. Descarga el APK desde [Releases](../../releases/latest)
+2. En tu Android: **Ajustes → Seguridad → Instalar apps de fuentes desconocidas**
+3. Instala el APK descargado
 
 ---
 
-## 🎨 Características de UI
+## 🖥️ Compatibilidad
 
-- ✅ Fondo oscuro estilo Netflix
-- ✅ Hero banner con imagen destacada
-- ✅ Filas horizontales desplazables por categoría
-- ✅ Indicador de foco con brillo/glow blanco
-- ✅ Animación de escala al cambiar foco
-- ✅ Tarjetas grandes con imagen, título, calificación, año, categoría
-- ✅ Sección "Continuar viendo" persistente
-- ✅ Badges EN VIVO / PELÍCULA / SERIE
-- ✅ Barra de progreso en tarjetas
+| Plataforma | Soporte |
+|---|---|
+| Android (móvil/tablet) | ✅ Completo |
+| Android TV / Google TV | ✅ Completo (D-pad) |
+| Emuladores (BlueStacks, etc.) | ✅ Completo |
+| Mínimo SDK | Android 5.0 (API 21) |
 
 ---
 
-## 📡 Reproductor de Video
+## 🛠️ Tecnologías
 
-Compatible con:
-- HLS / M3U8 (`.m3u8`)
-- MPEG-TS (`.ts`)
-- MP4 (`.mp4`)
-- Streams directos HTTP/HTTPS
-- URLs de streaming tipo `http://live.btv.mx:2424/stream/...`
-
-Controles TV:
-- Barra de progreso grande
-- Controles adaptados al control remoto
-- Indicador de volumen
-- Pantalla completa automática
-- Guarda posición de reproducción
+- [Flutter](https://flutter.dev) 3.x
+- [media_kit](https://pub.dev/packages/media_kit) — Reproducción FFmpeg para TV en Vivo
+- [chewie](https://pub.dev/packages/chewie) + [video_player](https://pub.dev/packages/video_player) — Player para películas y series
+- [cached_network_image](https://pub.dev/packages/cached_network_image) — Imágenes con caché
+- [provider](https://pub.dev/packages/provider) — Gestión de estado
+- [http](https://pub.dev/packages/http) — Consumo de APIs JSON
 
 ---
 
-## ⚙️ Configuración de HTTP Streams
+## ⚠️ Aviso Legal
 
-La app permite tráfico HTTP (no solo HTTPS) para compatibilidad con streams IPTV. Esto está configurado en:
-```
-android/app/src/main/res/xml/network_security_config.xml
-```
-
----
-
-## 🔧 Personalización
-
-### Cambiar el repositorio JSON
-En `lib/services/api_service.dart`:
-```dart
-static const String _jsonUrl = 'TU_URL_AQUI';
-```
-
-### Cambiar colores
-En `lib/theme/app_theme.dart`:
-```dart
-static const Color accent = Color(0xFFE50914); // Cambia el color principal
-```
-
-### Cambiar el Application ID
-En `android/app/build.gradle`:
-```gradle
-applicationId "com.tuempresa.tuapp"
-```
-Y en `android/app/src/main/AndroidManifest.xml`:
-```xml
-package="com.tuempresa.tuapp"
-```
-
----
-
-## 📱 Dispositivos Compatibles
-
-| Dispositivo | Compatible |
-|-------------|-----------|
-| Android TV (Sony, TCL, Philips) | ✅ |
-| Google TV (Chromecast 4K) | ✅ |
-| NVIDIA Shield TV | ✅ |
-| Amazon Fire TV | ✅ (via ADB) |
-| Mi TV Box | ✅ |
-| TiVo Stream 4K | ✅ |
-| Mecool Box | ✅ |
-
----
-
-## 🐛 Solución de Problemas
-
-### El stream no reproduce
-1. Verifica que el URL del stream sea válido
-2. Prueba el stream en VLC primero
-3. Revisa que `usesCleartextTraffic="true"` esté en el Manifest
-
-### Error de foco/navegación
-- Asegúrate de que `FocusTraversalGroup` esté envolviendo las filas
-- El primer elemento de cada fila debe tener `autofocus: true` en la primera fila
-
-### La app no aparece en el launcher del TV
-- Verifica que el `LEANBACK_LAUNCHER` intent-filter esté en el Manifest
-- El `android:banner` debe apuntar a un drawable válido
-
----
-
-## 📄 Licencia
-
-MIT License - CineStream For TV
+Esta aplicación es un reproductor multimedia. No almacena, distribuye ni aloja ningún contenido. Todo el contenido es provisto por fuentes externas de terceros. El uso de esta aplicación es responsabilidad exclusiva del usuario.
