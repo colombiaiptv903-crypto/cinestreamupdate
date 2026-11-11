@@ -2386,4 +2386,1182 @@ http://190.60.47.180:8000/play/a0gg/index.m3u8
 #EXTINF:0 group-title="Otros",ZOOM-BOGOTA
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a08i/index.m3u8
+#EXTM3U
+#EXTINF:28,WILLAX
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/WILLAX/index.m3u8
+#EXTINF:0, (2) Latina TV Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/LATINA/index.m3u8
+#EXTINF:0, (3) RPP TV Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/RPP/index.m3u8
+#EXTINF:0, (4) América TV Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:0, (5) Panamericana Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/PANAMERICANA/index.m3u8
+#EXTINF:0, (6) Exitosa Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/EXITOSA/index.m3u8
+#EXTINF:0, (7) TV Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/TV-PERU/index.m3u8
+#EXTINF:0, (8) ATV+ Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/ATV-PLUS/index.m3u8
+#EXTINF:0, (9) ATV Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/ATV/index.m3u8
+#EXTINF:0, (10) La Tele Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/LA-TELE/index.m3u8
+#EXTINF:0, (11) Viva TV Perú
+#EXTVLCOPT:network-caching=1000
+http://38.87.224.20:2220/play/a00m/index.m3u8
+#EXTINF:0, (12) Justicia TV Perú
+#EXTVLCOPT:network-caching=1000
+http://38.87.224.20:2220/play/a00i/index.m3u8
+#EXTINF:0, (13) Global TV Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/GLOBAL/index.m3u8
+#EXTINF:0, (14) Canal IPe Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/IPE/index.m3u8
+#EXTINF:0, (15) USMP TV Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/USMP/index.m3u8
+#EXTINF:0, (16) Juntos TV Perú
+#EXTVLCOPT:network-caching=1000
+http://45.70.201.81:8000/play/a019/index.m3u8
+#EXTINF:0, (17) Ovación Perú
+#EXTVLCOPT:network-caching=1000
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0, (18) Karibeña TV Perú
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/KARIBENA/index.m3u8
+#EXTINF:0, CL | 24 Horas HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a09o/index.m3u8
+#EXTINF:0, CL | Canal 13 HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a067/index.m3u8
+#EXTINF:0, CL | Chilevision HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a05h/index.m3u8
+#EXTINF:0, CL | La Red HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a09n/index.m3u8
+#EXTINF:0, CL | Mega 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a0ai/index.m3u8
+#EXTINF:0, CL | Mega HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a066/index.m3u8
+#EXTINF:0, CL | NTV HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a0ak/index.m3u8
+#EXTINF:0, CL | T13 En Vivo HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a0aj/index.m3u8
+#EXTINF:0, CL | TV+ HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a09m/index.m3u8
+#EXTINF:0, CL | TVN HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a09f/index.m3u8
+#EXTINF:0, CL | UCV TV
+#EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:0, CL | Zona Latina
+#EXTVLCOPT:network-caching=1000
+http://45.170.130.224:8000/play/a00x/index.m3u8
+#EXTINF:0, PY | ABC TV
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:0, PY | C9N
+#EXTVLCOPT:network-caching=1000
+https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8
+#EXTINF:0, PY | HEi Now
+#EXTVLCOPT:network-caching=1000
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:0, PY | La Tele
+#EXTVLCOPT:network-caching=1000
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:0, PY | Paraguay TV
+#EXTVLCOPT:network-caching=1000
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:0, PY | Paravision
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+#EXTINF:0, PY | SNT
+#EXTVLCOPT:network-caching=1000
+https://ddycmnicl95kp.cloudfront.net/live/25646ipbno2g/master.m3u8
+#EXTINF:0, PY | Telefuturo
+#EXTVLCOPT:network-caching=1000
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:0, PY | Trece
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:0, PY | Unicanal
+#EXTVLCOPT:network-caching=1000
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+#EXTINF:0, ARG | A24
+#EXTVLCOPT:network-caching=1000
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:0, ARG | America TV
+#EXTVLCOPT:network-caching=1000
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0, ARG | Canal 26
+#EXTVLCOPT:network-caching=1000
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:0, ARG | El Trece
+#EXTVLCOPT:network-caching=1000
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0, ARG | Paka Paka
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:0, ARG | Quiero Musica TV
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a06s/index.m3u8
+#EXTINF:0, ARG | Telefe
+#EXTVLCOPT:network-caching=1000
+http://45.173.231.22:8000/play/a053/index.m3u8
+#EXTINF:0, ARG | TN (Todo Noticias)
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a097/index.m3u8
+#EXTINF:0, ARG | Canal Siete
+#EXTVLCOPT:network-caching=1000
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&extension=m3u8
+#EXTINF:0, ARG | El Nueve
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a08k/index.m3u8
+#EXTINF:0, CO | Canal 1
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/6767.m3u8
+#EXTINF:0, CO | Canal RCN
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/1477.m3u8
+#EXTINF:0, CO | Caracol
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/1476.m3u8
+#EXTINF:0, CO | City TV
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/10237.m3u8
+#EXTINF:0, CO | Señal Colombia
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/7507.m3u8
+#EXTINF:0, CO | Teleantioquia
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/1478.m3u8
+#EXTINF:0, CO | Telecaribe
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/10078.m3u8
+#EXTINF:0, CO | Telemedellin
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/7991.m3u8
+#EXTINF:0, CO | Telepacifico
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/9592.m3u8
+#EXTINF:0, EC | Ecuavisa
+#EXTVLCOPT:network-caching=1000
+http://45.224.97.181:9999/Ecuavisa/index.m3u8
+#EXTINF:0, EC | Ecuador TV
+#EXTVLCOPT:network-caching=1000
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+#EXTINF:0, EC | RTS
+#EXTVLCOPT:network-caching=1000
+http://157.100.248.242:8080/RTSHD/index.m3u8
+#EXTINF:0, EC | TC Television
+#EXTVLCOPT:network-caching=1000
+http://177.234.218.66:8084/play/a089/index.m3u8
+#EXTINF:0, EC | Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
+#EXTINF:0, BO | Bolivia TV
+#EXTVLCOPT:network-caching=1000
+http://190.181.61.93:8000/play/a001/index.m3u8
+#EXTINF:0, BO | Bolivision
+#EXTVLCOPT:network-caching=1000
+http://190.181.61.93:8000/play/a00j/index.m3u8
+#EXTINF:0, BO | PAT
+#EXTVLCOPT:network-caching=1000
+http://190.181.61.93:8000/play/a00e/index.m3u8
+#EXTINF:0, BO | Red Uno
+#EXTVLCOPT:network-caching=1000
+http://190.181.61.93:8000/play/a003/index.m3u8
+#EXTINF:0, BO | RTP
+#EXTVLCOPT:network-caching=1000
+http://190.181.61.93:8000/play/a00n/index.m3u8
+#EXTINF:0, BO | Unitel
+#EXTVLCOPT:network-caching=1000
+http://190.181.61.93:8000/play/1909/index.m3u8
+#EXTINF:0, DEP | Bicolor+ Premium Peru
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
+#EXTINF:0, DEP | L1 Peru
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:0, DEP | L1 Max Peru
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+#EXTINF:0, DEP | ESPN Peru
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
+#EXTINF:0, DEP | ESPN 2 Peru
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+#EXTINF:0, DEP | ESPN 3 Peru
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+#EXTINF:0, DEP | ESPN 4 Peru
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
+#EXTINF:0, DEP | ESPN 5 Peru
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
+#EXTINF:0, DEP | ESPN 6 Peru
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+#EXTINF:0, DEP | ESPN 7 Peru
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+#EXTINF:0, CL | TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a0b2/index.m3u8
+#EXTINF:0, CL | TNT Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a0bz/index.m3u8
+#EXTINF:0, CL | ESPN Premium
+#EXTVLCOPT:network-caching=1000
+http://181.78.88.113:9800/play/a0c2/index.m3u8
+#EXTINF:0, DEP | ESPN Premium Argentina
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:0, DEP | TyC Sports Argentina
+#EXTVLCOPT:network-caching=1000
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+#EXTINF:0, CO | Win Sports
+#EXTVLCOPT:network-caching=1000
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:0, CO | Win+ Futbol
+#EXTVLCOPT:network-caching=1000
+http://wispcinema.sytes.net:25461/obedchile/18112022/1472.m3u8
+#EXTINF:0, EC | ECDF
+#EXTVLCOPT:network-caching=1000
+http://45.226.205.96:48000/play/a08y/index.m3u8
+#EXTINF:0, DEP | Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://45.228.234.9:8000/play/a06i/index.m3u8
+#EXTINF:0, DEP | Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://72.1.184.5:8089/play/a0cw/index.m3u8
+#EXTINF:0, DEP | TyC Sports Int.
+#EXTVLCOPT:network-caching=1000
+http://45.186.254.75:8000/play/a08n/index.m3u8
+#EXTINF:0, DEP | PX Sports
+#EXTVLCOPT:network-caching=1000
+http://187.245.231.227:8000/play/a0si/index.m3u8
+#EXTINF:0, PREMIUM | HBO
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a0bc/index.m3u8
+#EXTINF:0, PREMIUM | HBO 2
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a04d/index.m3u8
+#EXTINF:0, PREMIUM | HBO Family
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a0ba/index.m3u8
+#EXTINF:0, PREMIUM | HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a07q/index.m3u8
+#EXTINF:0, PREMIUM | HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a0bd/index.m3u8
+#EXTINF:0, PREMIUM | HBO Pop
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a017/index.m3u8
+#EXTINF:0, PREMIUM | HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a06r/index.m3u8
+#EXTINF:0, PREMIUM | HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a01d/index.m3u8
+#EXTINF:0, PREMIUM | Antena 3 Int.
+#EXTVLCOPT:network-caching=1000
+http://168.196.127.137:6001/play/a03m/index.m3u8
+#EXTINF:0, PREMIUM | Atreseries Int.
+#EXTVLCOPT:network-caching=1000
+http://168.196.127.137:6001/play/a03s/index.m3u8
+#EXTINF:0, PREMIUM | Hola TV
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a0al/index.m3u8
+#EXTINF:0, PREMIUM | Universal Cinema
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a04z/index.m3u8
+#EXTINF:0, PREMIUM | Universal Comedy
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a04s/index.m3u8
+#EXTINF:0, PREMIUM | Universal Crime
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a05s/index.m3u8
+#EXTINF:0, PREMIUM | Universal Premiere
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a04p/index.m3u8
+#EXTINF:0, PREMIUM | Universal Reality
+#EXTVLCOPT:network-caching=1000
+http://38.190.100.202:8000/play/a04r/index.m3u8
+#EXTINF:0, FreeTV Banda
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, FreeTV Drama
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, FreeTV Sureno
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16513&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, FreeTV Accion
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16881&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, FreeTV Familia
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16561&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, FreeTV Clasico
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16512&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, FreeTV Terror
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16514&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, FreeTV Live
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16511&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, FreeTV Estelar
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:0, Acapulco Shore Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+#EXTINF:0, Adrenalina Pura TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:0, Al Ritmo del Jaripeo
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
+#EXTINF:0, Archivos Extraterrestres
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
+#EXTINF:0, Archivos Forenses
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+#EXTINF:0, Avatar: La Leyenda de Aang
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:0, AYM Sports 3
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
+#EXTINF:0, Azteca Internacional
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
+#EXTINF:0, Baby Shark TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
+#EXTINF:0, Barça 24H
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8
+#EXTINF:0, Blue Bloods
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6a15f7770ed14e790bab6449.m3u8
+#EXTINF:0, Bob Esponja Pantalones Cuadrados
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:0, Boruto: Naruto Next Generations
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
+#EXTINF:0, Bromas Gags - Just for Laughs
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
+#EXTINF:0, C4 en Alerta
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
+#EXTINF:0, Canal 6 CdMX
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
+#EXTINF:0, Canal Claro
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:0, Captain Tsubasa
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
+#EXTINF:0, CBS News 24/7
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
+#EXTINF:0, Celia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6a7b453df5f14c2045f5f00b.m3u8
+#EXTINF:0, Cinépolis Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-699f405a0c8827936bd287bf.m3u8
+#EXTINF:0, Comedy Central Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:0, Comedy Central South Park
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:0, Concert Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+#EXTINF:0, Conciertos por Stingray
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
+#EXTINF:0, COPS
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
+#EXTINF:0, CSI: Miami
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+#EXTINF:0, Cuando los Ángeles Caen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
+#EXTINF:0, Daria
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+#EXTINF:0, Death Note
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
+#EXTINF:0, Desafío Super Humanos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6495af324c014a000842e923.m3u8
+#EXTINF:0, Dog el cazarrecompensas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
+#EXTINF:0, Dr. G
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8
+#EXTINF:0, Dulce by elGourmet
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
+#EXTINF:0, El Capo
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6a7b455d0c6744fe86e71bd0.m3u8
+#EXTINF:0, El Encantador de Perros
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+#EXTINF:0, El Reino Infantil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
+#EXTINF:0, Empeños a lo bestia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
+#EXTINF:0, Enchufe.TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
+#EXTINF:0, Estrellas de Acción
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:0, Euronews Español
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
+#EXTINF:0, FailArmy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
+#EXTINF:27, FIFA+
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+#EXTINF:0, Hechiceras
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
+#EXTINF:0, Hechizada
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+#EXTINF:0, Hells Kitchen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6095ad97351eb0000754c1e6.m3u8
+#EXTINF:0, Hermanos a la Obra
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69fcdc73488e575cff213adc.m3u8
+#EXTINF:0, Hey Arnold!
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:0, Historias de Ultratumba
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:0, Homeful
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
+#EXTINF:0, Hunter x Hunter
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
+#EXTINF:0, I Shouldn't Be Alive
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69fcaaa1853a01a827bcd056.m3u8
+#EXTINF:0, Ice Pilots
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
+#EXTINF:0, Inuyasha
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
+#EXTINF:0, JoJo’s Bizarre Adventure
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
+#EXTINF:0, Juana La Virgen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-699762a0172a5c3296892d92.m3u8
+#EXTINF:0, Kenan y Kel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:0, La Familia del Barrio
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
+#EXTINF:0, La Selección
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
+#EXTINF:0, Las Tortugas Ninja
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:0, Los archivos del FBI
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
+#EXTINF:0, Los Asesinatos de Midsomer
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
+#EXTINF:0, Los Padrinos Mágicos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+#EXTINF:0, Los Pitufos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
+#EXTINF:0, MacGyver
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:0, MasterChef Argentina
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69fcaa88e022927e1c94c533.m3u8
+#EXTINF:0, MasterChef Colombia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
+#EXTINF:0, MasterChef México
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+#EXTINF:0, Mi Bella Genio
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
+#EXTINF:0, Mi Coche Clásico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
+#EXTINF:0, Mi Gorda Bella
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-699763787cfe0ffadadd106f.m3u8
+#EXTINF:0, Milenio Televisión
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:0, Minuto Para Ganar
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+#EXTINF:0, Misterios Medicos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:0, Misterios sin Resolver
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+#EXTINF:0, Monstruos de Rio
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
+#EXTINF:0, Motorvision TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+#EXTINF:0, Mr. Bean Animated
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
+#EXTINF:0, MTV Biggest Pop
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:0, MTV Catfish
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
+#EXTINF:0, MTV Classic
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:0, MTV Con Mi Ex
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+#EXTINF:0, MTV Drag
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+#EXTINF:0, MTV Flow Latino
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:0, MTV Ink Master
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+#EXTINF:0, MTV Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+#EXTINF:0, MTV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+#EXTINF:0, MTV Ridiculousness
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+#EXTINF:0, MTV Rocks
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:0, MTV Teen Mom
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
+#EXTINF:0, Naruto
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:0, Naruto Shippuden
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+#EXTINF:0, NatureTime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:0, NCIS
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
+#EXTINF:0, NFL Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6a68cb5a116cd6d17dba0b95.m3u8
+#EXTINF:0, Nick Jr. Club
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:0, Nickelodeon Clásico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:0, Nickelodeon iCarly
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:0, Nickelodeon Teen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:0, Nickelodeon Toons
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:0, Números
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
+#EXTINF:0, Obsesión por los Autos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
+#EXTINF:27, One Piece
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:0, Paisajes por Stingray
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
+#EXTINF:0, PFL MMA
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
+#EXTINF:0, Plato del Dia by elGourmet
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
+#EXTINF:25, Pluto TV  Competencias
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+#EXTINF:0, Pluto TV  Nuestro Cine
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:0, Pluto TV A La Mexicana
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+#EXTINF:0, Pluto TV Amor y Mentiras
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+#EXTINF:0, Pluto TV Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:0, Pluto TV Aventura
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:0, Pluto TV Cine Acción
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+#EXTINF:0, Pluto TV Cine Clásico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
+#EXTINF:0, Pluto TV Cine Comedia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+#EXTINF:0, Pluto TV Cine Crimen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+#EXTINF:0, Pluto TV Cine Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+#EXTINF:0, Pluto TV Cine Estelar
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:0, Pluto TV Cine Familia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:0, Pluto TV Cine Inspirador
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+#EXTINF:0, Pluto TV Cine Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+#EXTINF:25, Pluto TV Cine Suspenso
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+#EXTINF:0, Pluto TV Cine Terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:0, Pluto TV Deportes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:0, Pluto TV Documentales
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+#EXTINF:0, Pluto TV Dramas Coreanos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+#EXTINF:0, Pluto TV Dramas Coreanos Teen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
+#EXTINF:0, Pluto TV E-Sports
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:0, Pluto TV Estilo de Vida
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+#EXTINF:0, Pluto TV Fútbol
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:0, Pluto TV Historia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+#EXTINF:0, Pluto TV Humor
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
+#EXTINF:0, Pluto TV Investiga
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+#EXTINF:0, Pluto TV Junior
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+#EXTINF:0, Pluto TV Kids
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:0, Pluto TV Misterios
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+#EXTINF:0, Pluto TV Naturaleza
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:0, Pluto TV Novelas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+#EXTINF:0, Pluto TV Novelas de México
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:0, Pluto TV Novelas de Otros Continentes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+#EXTINF:0, Pluto TV Novelas de Venezuela
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+#EXTINF:0, Pluto TV Peleas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
+#EXTINF:0, Pluto TV Reality
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+#EXTINF:0, Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:0, Pluto TV Series
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+#EXTINF:0, Pluto TV Series de Acción
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+#EXTINF:0, Pluto TV Series de Comedia
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+#EXTINF:0, Pluto TV Series de Crimen
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
+#EXTINF:0, Pluto TV Series de Otros Continentes
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
+#EXTINF:0, Pluto TV Series de Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+#EXTINF:0, Pluto TV Series de Terror y Suspenso
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6a904349f9b764ea89e9a92a.m3u8
+#EXTINF:0, Pluto TV Series Latinas
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:0, Pluto TV Series Retro
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:0, Pluto TV Star Trek
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
+#EXTINF:0, Pluto TV Velocidad
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+#EXTINF:0, Pluto TV Vida Real
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
+#EXTINF:0, Pokémon
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
+#EXTINF:0, Popeye
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+#EXTINF:0, RCN Más
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
+#EXTINF:0, RCN Noticias
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+#EXTINF:0, Realmadrid TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
+#EXTINF:0, Red Bull TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+#EXTINF:0, Revive Gran Hermano
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
+#EXTINF:0, Rookie Blue: Policías Novatos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
+#EXTINF:0, Rugrats
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:0, Runtime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
+#EXTINF:0, Shockwave
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8
+#EXTINF:0, Sin Tetas No Hay Paraíso
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+#EXTINF:0, Smithsonian Channel Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+#EXTINF:0, South Park: Colección Cartman
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:0, South Park: Colección Kenny
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:0, South Park: Colección Kyle
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:0, South Park: Colección Stan
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:0, Stingray Pop Mexicano 80's
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6a73b9032cf3064bdf7d3b4e.m3u8
+#EXTINF:0, Stingray Época Dorada del Cine Mexicano
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6a739fb3c1842722eaf5eb1f.m3u8
+#EXTINF:0, Stingray Éxitos Regional Mexicano
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6a73b8f1744143378ce88eae.m3u8
+#EXTINF:0, Survivor México
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-69fca9dd14a5dfae8875a3be.m3u8
+#EXTINF:0, Tastemade Food
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
+#EXTINF:0, Tastemade Home & Travel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
+#EXTINF:0, TeleFórmula
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
+#EXTINF:0, The New Detectives
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
+#EXTINF:0, The Pet Collective
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
+#EXTINF:0, The Walking Dead by AMC
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+#EXTINF:0, TikTok Radio en Español
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
+#EXTINF:0, Tokusato
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
+#EXTINF:0, UFC
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
+#EXTINF:0, Untold Stories of the ER
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-678533155e0e6a000828cd48.m3u8
+#EXTINF:0, Vive Kanal D Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
+#EXTINF:0, Wipe Out
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
+#EXTINF:0, Yu-Gi-Oh
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
+#EXTINF:0, Z Nation
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
+#EXTINF:11,DIRECTV SPORT HD
+#EXTVLCOPT:network-caching=1000
+http://201.240.104.137:8000/play/a0c8/index.m3u8
+#EXTINF:11,DIRECTV SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://201.240.104.137:8000/play/dtv2/index.m3u8
+#EXTINF:11,DIRECTV SPORT +
+#EXTVLCOPT:network-caching=1000
+http://201.240.104.137:8000/play/dtvmas/index.m3u8
+#EXTINF:11, MVSTR | M Deportes Peru
+#EXTVLCOPT:network-caching=1000
+http://45.186.254.75:8000/play/a0es/index.m3u8
+#EXTINF:0, MVSTR | M Plus Peru
+#EXTVLCOPT:network-caching=1000
+http://45.186.254.75:8000/play/a0et/index.m3u8
+#EXTINF:0, MVSTR | Canal N Peru
+#EXTVLCOPT:network-caching=1000
+http://45.186.254.75:8000/play/a09i/index.m3u8
+#EXTINF:0, C | AMC
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/AMC/playlist.m3u8
+#EXTINF:0, C | Cinecanal
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/CINECANAL_HD/playlist.m3u8
+#EXTINF:0, C | Cinemax
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:0, C | Clover Channel
+#EXTVLCOPT:network-caching=1000
+http://38.224.231.176:8000/play/a06s/index.m3u8
+#EXTINF:0, C | FX
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8
+#EXTINF:0, C | FMH Family
+#EXTVLCOPT:network-caching=1000
+http://38.252.208.34:40000/play/a0qh/index.m3u8
+#EXTINF:0, C | FMH Movies
+#EXTVLCOPT:network-caching=1000
+http://38.252.208.34:40000/play/a0qg/index.m3u8
+#EXTINF:0, C | Golden
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/GOLDEN_HD/playlist.m3u8
+#EXTINF:0, C | Golden Edge
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
+#EXTINF:0, C | Sony Channel
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/SONY_HD/playlist.m3u8
+#EXTINF:0, C | Space
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/SPACE_HD/playlist.m3u8
+#EXTINF:0, C | Star Channel
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/STAR_CHANNEL/playlist.m3u8
+#EXTINF:0, C | Studio Universal
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/STUDIO_UNIVERSAL_HD/playlist.m3u8
+#EXTINF:0, C | TCM
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
+#EXTINF:0, C | TNT
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8
+#EXTINF:0, C | Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://45.186.254.75:8000/play/a012/index.m3u8
+#EXTINF:0, S | A&E
+#EXTVLCOPT:network-caching=1000
+http://45.186.254.75:8000/play/a04b/index.m3u8
+#EXTINF:0, S | AMC Series
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/amc_series.stream/playlist.m3u8
+#EXTINF:0, S | AXN
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
+#EXTINF:0, S | Memorias Series
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.221:8000/play/a025/index.m3u8
+#EXTINF:0, S | TNT Series
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/TNT_SERIES/playlist.m3u8
+#EXTINF:0, S | Universal TV
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/UNIVERSAL_HD/playlist.m3u8
+#EXTINF:0, K | BitMe
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
+#EXTINF:0, K | Cartoon Network
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
+#EXTINF:0, K | Cartoonito
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/CARTOONITO/playlist.m3u8
+#EXTINF:0, K | Discovery Kids
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/DISCOVERY_KIDS_HD/playlist.m3u8
+#EXTINF:0, K | Disney Channel
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
+#EXTINF:0, K | Disney Jr.
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/DISNEY_JR_HD/playlist.m3u8
+#EXTINF:0, K | El Reino Infantil
+#EXTVLCOPT:network-caching=1000
+https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+#EXTINF:0, K | FMH Kids
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.221:8000/play/a01w/index.m3u8
+#EXTINF:0, K | Nick Jr.
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:0, K | Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://38.87.224.20:2220/play/a032/index.m3u8
+#EXTINF:0, K | Plim Plim
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/plimplim.stream/playlist.m3u8
+#EXTINF:0, K | Tooncast
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
+#EXTINF:0, Kids | Baby TV
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/BABY_TV/playlist.m3u8
+#EXTINF:0, C | Adult Swim
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
+#EXTINF:0, C | Comedy Central
+#EXTVLCOPT:network-caching=1000
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+#EXTINF:0, NT | 24h RTVE
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:0, NT | DW en Español
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:0, NT | France 24 en Español
+#EXTVLCOPT:network-caching=1000
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:0, NT | RT en Español
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:0, NT | CNN International
+#EXTVLCOPT:network-caching=1000
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:0, NT | CNN Spanish
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
+#EXTINF:0, NOV | Pasiones
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/PASIONES/playlist.m3u8
+#EXTINF:0, NOV | TNT Novelas
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/playlist.m3u8
+#EXTINF:24, NOV | RCN Novelas
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:0, C | Animal Planet
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/ANIMAL_PLANET_HD/playlist.m3u8
+#EXTINF:0, C | Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://45.186.254.75:8000/play/a06z/index.m3u8
+#EXTINF:0, C | Discovery ID
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/ID/playlist.m3u8
+#EXTINF:0, C | Discovery Theater
+#EXTVLCOPT:network-caching=1000
+http://45.186.254.75:8000/play/a0fp/index.m3u8
+#EXTINF:0, C | Discovery TLC
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/TLC/playlist.m3u8
+#EXTINF:0, C | Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/DISCOVERY_TURBO/playlist.m3u8
+#EXTINF:0, C | Love Nature
+#EXTVLCOPT:network-caching=1000
+https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
+#EXTINF:0, C | National Geographic
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
+#EXTINF:24, C | History Channel
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/HISTORY_HD/playlist.m3u8
+#EXTINF:22, C | History 2
+#EXTVLCOPT:network-caching=1000
+http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:0, V | Telemundo Internacional
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/TELEMUNDO/playlist.m3u8
+#EXTINF:0, V | Univision
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/UNIVISION/playlist.m3u8
+#EXTINF:0, V | El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://190.61.101.11:7050/play/a09s/index.m3u8?hls
+#EXTINF:0, V | Discovery H&H
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
+#EXTINF:0, V | Food Network
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/playlist.m3u8
+#EXTINF:0, V | Las Estrellas
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
+#EXTINF:0, V | Lifetime
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/LIFETIME/playlist.m3u8
+#EXTINF:0, INT | Caracol Internacional
+#EXTVLCOPT:network-caching=1000
+http://167.249.23.102:8000/play/a0ax/index.m3u8
+#EXTINF:0, INT | El Trece Internacional
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0mf/index.m3u8
+#EXTINF:0, INT | Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://45.173.231.22:8000/play/a0cr/index.m3u8
+#EXTINF:0, INT | TV Chile
+#EXTVLCOPT:network-caching=1000
+http://45.239.31.254:8000/play/a021/index.m3u8
+#EXTINF:0, INT | TVE
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+#EXTINF:0, R | Enlace
+#EXTVLCOPT:network-caching=1000
+http://177.234.247.66:9975/Enlace/index.m3u8
+#EXTINF:0, R | EWTN
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:0, R | Canal Luz
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/canalluz/playlist.m3u8
+#EXTINF:0, MU | MTV
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/MTV/playlist.m3u8
+#EXTINF:0, MU | HTV
+#EXTVLCOPT:network-caching=1000
+https://streaming.onnethn.com/HTV/playlist.m3u8
+#EXTINF:0, MU | Telehit
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca048/index.m3u8
+#EXTINF:0, MU | Telehit Musica
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca093/index.m3u8
+#EXTINF:0, MU | TOP Latino TV
+#EXTVLCOPT:network-caching=1000
+http://38.87.224.20:2220/play/a02b/index.m3u8
+#EXTINF:0, MU | QUE Música TV
+#EXTVLCOPT:network-caching=1000
+https://app.viloud.tv/hls/channel/c213aa8281b83a14b0bde1e71dca91b0.m3u8
+
  
