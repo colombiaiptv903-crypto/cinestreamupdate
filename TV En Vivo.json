@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="Nacionales",ALERTA BOGOTA
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="Nacionales",ALERTA BOGOTA Radio
 http://190.60.39.221:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Am%C3%A9rica_TV_logo.svg/revision/latest/scale-to-width-down/512?cb=20200801162239" group-title="Nacionales",America TV HD
 http://190.60.39.221:8000/play/a08o/index.m3u8
