@@ -235,32 +235,32 @@ http://181.78.106.127:5000/play/a0qg/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/ca034/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3 HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://181.119.215.61:8000/play/a05t/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a08n/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png" group-title="Deportes",ESPN 3 HD
 http://190.60.39.221:8000/play/a06e/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3
 http://38.224.22.255:8000/play/a01x/index.m3u8
-#EXTINF:12 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3 HD
+#EXTINF:12 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 HD
 http://38.224.22.255:8000/play/a0d5/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3 HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 HD
 http://38.224.22.255:8000/play/a08b/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3 HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 HD
 http://45.224.150.120:8000/play/a0s2/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3 HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a09r/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/a0sf/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3 HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/ca035/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png",ESPN 3 
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png",ESPN 3 
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a00m/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png",ESPN  4 HD
