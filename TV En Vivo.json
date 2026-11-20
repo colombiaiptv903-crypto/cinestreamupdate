@@ -260,7 +260,7 @@ http://181.78.106.127:5000/play/a0sf/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/ca035/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609",ESPN 3 - 4
+#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609",ESPN 3 
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a00m/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211120194330",ESPN  4 HD
@@ -308,7 +308,7 @@ http://181.78.106.127:5000/play/a0rd/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957",ESPN 5  HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/a0rn/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957",ESPN 5 - 6
+#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957",ESPN 5
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a00n/index.m3u8
 #EXTINF:0 group-title="Deportes",ESPN 5HD
@@ -350,9 +350,9 @@ http://181.78.21.171:8000/play/a08r/index.m3u8
 http://190.60.39.221:8000/play/a06z/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest?cb=20240210020543",ESPN 7 HD
 http://38.224.22.255:8000/play/a0at/index.m3u8
-#EXTINF:0 group-title="Deportes",ESPN 7HD
+#EXTINF:0 group-title="Deportes", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest?cb=20240210020543",ESPN 7HD
 http://45.224.150.120:8000/play/a0sb/index.m3u8
-#EXTINF:0 group-title="Deportes",ESPN 7HD
+#EXTINF:0 group-title="Deportes",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest?cb=20240210020543",ESPN 7HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium HD
