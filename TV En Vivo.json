@@ -187,12 +187,15 @@ http://45.226.205.96:48000/play/a08y/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://152.231.29.114:8000/play/a0qi/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN COL
+#EXTVLCOPT:network-caching=1000
+http://181.78.21.38:8000/play/a0cp/index.m3u8
 #EXTINF:12 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://152.231.29.242:8000/play/a0fl/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN COL
 #EXTVLCOPT:network-caching=1000
-http://181.78.21.171:8000/play/a08l/index.m3u8
+http://181.78.5.14:8000/play/a03k/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://158.172.217.18:8000/play/a023/index.m3u8
@@ -475,21 +478,22 @@ http://45.186.254.75:8000/play/a08n/index.m3u8
 #EXTINF:0 group-title="Deportes", UFC
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",WIN
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",Win Sport
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",Win
-http://190.60.39.221:8000/play/a088/index.m3u8
-#EXTINF:11 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",Win
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",Win Sport
+#EXTVLCOPT:network-caching=1000
+http://181.78.21.38:8000/play/a07l/index.m3u8
+#EXTINF:11 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",Win Sport
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0gm/index.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",WIN +
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",WIN Sport +
 #EXTVLCOPT:network-caching=1000
-http://181.78.21.171:8000/play/a07b/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241", CO | Win+ Futbol
+http://181.78.21.38:8000/play/a07l/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241",Win Sport + 
 #EXTVLCOPT:network-caching=1000
-http://wispcinema.sytes.net:25461/obedchile/18112022/1472.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241", CO | Win Sports
+http://181.78.73.153:8000/play/a0eu/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241",Win Sports +
 #EXTVLCOPT:network-caching=1000
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:11 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/A%26E_2013.svg/revision/latest/scale-to-width-down/512?cb=20250722162127",A&E
