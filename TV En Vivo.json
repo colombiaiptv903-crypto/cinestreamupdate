@@ -17,25 +17,36 @@ http://190.60.39.221:8000/play/a07y/index.m3u8
 #EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/CanalInstitucional2025.png/revision/latest?cb=20250801215000",Canal Institucional
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0gc/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CanalRCN.com-2023.png/revision/latest?cb=20230726174700" group-title="Nacionales",Canal RCN
-http://190.60.39.221:8000/play/a07x/index.m3u8
-#EXTINF:11 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CanalRCN.com-2023.png/revision/latest?cb=20230726174700",Canal RCN
-http://45.224.150.120:8000/play/a0qy/index.m3u8
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CanalRCN.com-2023.png/revision/latest?cb=20230726174700",Canal RCN
+#EXTVLCOPT:network-caching=1000
+http://190.60.47.182:8000/play/a0hb/index.m3u8
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CanalRCN.com-2023.png/revision/latest?cb=20230726174700",Canal RCN
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.219:8000/play/a09e/index.m3u8
 #EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CanalRCN.com-2023.png/revision/latest?cb=20230726174700",Canal RCN
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0gb/index.m3u8
-#EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CanalRCN.com-2023.png/revision/latest?cb=20230726174700", CO | Canal RCN
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/CanalRCN.com-2023.png/revision/latest?cb=20230726174700",Canal RCN
 #EXTVLCOPT:network-caching=1000
 http://wispcinema.sytes.net:25461/obedchile/18112022/1477.m3u8
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://es.wikipedia.org/wiki/RCN_HD2#/media/Archivo:RCN_HD2_2023.png",Canal RCN HD2
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.219:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/CanalUnoEcuador2019.png/revision/latest?cb=20190602235259" group-title="Nacionales",Canal Uno
 http://190.60.39.221:8000/play/a07v/index.m3u8
 #EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/CanalUnoEcuador2019.png/revision/latest?cb=20190602235259",Canal Uno
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0g9/index.m3u8
-#EXTINF:0 group-title="Nacionales", CO | Caracol
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://es.wikipedia.org/wiki/Caracol_Televisi%C3%B3n#/media/Archivo:CaracolTV2025.png" ,Canal Caracol
 #EXTVLCOPT:network-caching=1000
 http://wispcinema.sytes.net:25461/obedchile/18112022/1476.m3u8
-#EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Caracol_Internacional_%28alternate%29.svg/revision/latest/scale-to-width-down/512?cb=20250711022050", INT | Caracol Internacional
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://es.wikipedia.org/wiki/Caracol_Televisi%C3%B3n#/media/Archivo:CaracolTV2025.png" ,Canal Caracol
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.219:8000/play/a09d/index.m3u8 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Caracol_HD2#/media/Archivo:CaracolHD2-2025.png" group-title="Nacionales",CARACOL HD2
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.219:8000/play/a08v/index.m3u8
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Caracol_Internacional_%28alternate%29.svg/revision/latest/scale-to-width-down/512?cb=20250711022050",Caracol Internacional
 #EXTVLCOPT:network-caching=1000
 http://167.249.23.102:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Caracol2025.png/revision/latest?cb=20250219181022" group-title="Nacionales",CARACOL TV HD
