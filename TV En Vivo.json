@@ -184,16 +184,16 @@ http://45.224.150.120:8000/play/a0vo/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://i.imgur.com/Wj5ZaJw.png", EC | ECDF
 #EXTVLCOPT:network-caching=1000
 http://45.226.205.96:48000/play/a08y/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN COL
+#EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://181.78.211.244:8000/play/a08q/index.m3u8
-#EXTINF:12 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN COL
+#EXTINF:12 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://38.225.34.185:8000/play/a00p/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN COL
+#EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a08l/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN COL
+#EXTINF:0 group-title="Deportes" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://152.231.29.114:8000/play/a0qi/index.m3u8
 #EXTINF:12 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN MX
