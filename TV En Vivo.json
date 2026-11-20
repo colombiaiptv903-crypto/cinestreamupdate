@@ -1178,19 +1178,19 @@ http://181.78.21.171:8000/play/a095/index.m3u8
 #EXTINF:0 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/MMb9u4u.png",MUSICA REGGAETON
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a094/index.m3u8
-#EXTINF:0 group-title="Entretenimiento",Musica reggueaton
+#EXTINF:0 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/MMb9u4u.png",MUSICA REGGAETON
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0c0/index.m3u8
 #EXTINF:0 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/eIaRv0U.png",MUSICA ROMANTICA
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a097/index.m3u8
-#EXTINF:0 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/eIaRv0U.png",Musica Romantica
+#EXTINF:0 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/eIaRv0U.png",MUSICA ROMANTICA
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0c3/index.m3u8
 #EXTINF:0 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/sT91t83.png",MUSICA SALSA
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a096/index.m3u8
-#EXTINF:0 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/sT91t83.png",Musica Salsa
+#EXTINF:0 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/sT91t83.png",MUSICA SALSA
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0c1/index.m3u8
 #EXTINF:0 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/NBCUniversal_2026.svg/revision/latest/scale-to-width-down/512?cb=20260608164633",NBC UNIVERSO
