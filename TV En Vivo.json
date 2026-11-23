@@ -500,13 +500,13 @@ http://181.78.21.38:8000/play/a07l/index.m3u8
 http://190.60.47.180:8000/play/a0gm/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241" group-title="Deportes",WIN Sport +
 #EXTVLCOPT:network-caching=1000
-http://181.78.21.38:8000/play/a07l/index.m3u8
+http://181.78.73.153:8000/play/a0eu/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241",Win Sport + 
 #EXTVLCOPT:network-caching=1000
-http://181.78.73.153:8000/play/a0eu/index.m3u8
+http://152.231.29.130:8000/play/a0c3/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/512?cb=20240729163241",Win Sports +
 #EXTVLCOPT:network-caching=1000
-http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+http://181.78.82.130:8000/play/a0ds/index.m3u8
 #EXTINF:11 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/A%26E_2013.svg/revision/latest/scale-to-width-down/512?cb=20250722162127",A&E
 #EXTVLCOPT:network-caching=1000
 http://181.78.21.171:8000/play/a04o/index.m3u8
