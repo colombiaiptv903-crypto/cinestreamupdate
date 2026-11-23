@@ -174,16 +174,22 @@ http://181.119.215.61:8000/play/a061/index.m3u8
 http://181.78.106.127:5000/play/a0pt/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",DSport HD
 #EXTVLCOPT:network-caching=1000
-http://201.240.104.137:8000/play/a0c8/index.m3u8
+http://201.240.104.137:8000/play/a0c8/index.m3u8 
 #EXTINF:0 group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",DSport HD
 #EXTVLCOPT:network-caching=1000
 http://38.190.100.202:8000/play/a05n/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",DSport HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0r5/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734",DSport 2 HD
 #EXTVLCOPT:network-caching=1000
 http://201.240.104.137:8000/play/dtv2/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734",DSport 2 HD
 #EXTVLCOPT:network-caching=1000
 http://38.190.100.202:8000/play/a05m/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734",DSport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0r4/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest/scale-to-width-down/240?cb=20221114124037",DSport + HD
 #EXTVLCOPT:network-caching=1000
 http://201.240.104.137:8000/play/dtvmas/index.m3u8
