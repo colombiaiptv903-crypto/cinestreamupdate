@@ -12,9 +12,9 @@ http://wispcinema.sytes.net:25461/obedchile/18112022/6767.m3u8
 #EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Canal_Congreso_2022_A.png/revision/latest?cb=20220810025445",Canal Congreso
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0dl/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/500px-Se%C3%B1al_Institucional_logo.svg.png" group-title="Nacionales",Canal Institucional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal-Institucional.png" group-title="Nacionales",Canal Institucional
 http://190.60.39.221:8000/play/a07y/index.m3u8
-#EXTINF:0 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/500px-Se%C3%B1al_Institucional_logo.svg.png",Canal Institucional
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal-Institucional.png",Canal Institucional
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0gc/index.m3u8
 #EXTINF:0 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",Canal RCN
@@ -181,19 +181,16 @@ http://38.190.100.202:8000/play/a05n/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/500px-DSports_logo_2022.svg.png",DSport HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0r5/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/250_sport_2.png",DSport 2 HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/DSports_2_2022.png",DSport 2 HD
 #EXTVLCOPT:network-caching=1000
 http://201.240.104.137:8000/play/dtv2/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/250_sport_2.png",DSport 2 HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/DSports_2_2022.png",DSport 2 HD
 #EXTVLCOPT:network-caching=1000
 http://38.190.100.202:8000/play/a05m/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/250_sport_2.png",DSport 2 HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/DSports_2_2022.png",DSport 2 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0r4/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sport%2B_logo_%282002-2011%29.svg/500px-Sport%2B_logo_%282002-2011%29.svg.png",DSport + HD
-#EXTVLCOPT:network-caching=1000
-http://201.240.104.137:8000/play/dtvmas/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sport%2B_logo_%282002-2011%29.svg/500px-Sport%2B_logo_%282002-2011%29.svg.png",DSport + HD
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png",DSport + HD
 #EXTVLCOPT:network-caching=1000
 http://38.190.100.202:8000/play/a09q/index.m3u8
 #EXTINF:11 group-title="Deportes" tvg-logo="https://i.imgur.com/Wj5ZaJw.png",ECDF SD
