@@ -383,7 +383,7 @@ http://45.224.150.120:8000/play/a0r4/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-premium-lam.png", CL | ESPN Premium
 #EXTVLCOPT:network-caching=1000
 http://181.78.88.113:9800/play/a0c2/index.m3u8
-#EXTINF:27 group-title="Deportes" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279268121%27&EntityType=%27Item%27&EntityId=%27557763%27&Width=1920&Height=1080", FIFA+
+#EXTINF:27 group-title="Deportes" tvg-logo="https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png", FIFA+
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/500px-Fox_Sports_3_Argentina_2023.svg.png",FOX SPORTS 3 HD
