@@ -70,7 +70,7 @@ http://190.60.39.221:8000/play/a080/index.m3u8
 #EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Se%C3%B1al_Colombia.svg/revision/latest/scale-to-width-down/512?cb=20220402110227",Senal Colombia
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0ge/index.m3u8
-#EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Se%C3%B1al_Colombia.svg/revision/latest/scale-to-width-down/512?cb=20220402110227", CO | Señal Colombia
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Se%C3%B1al_Colombia.svg/revision/latest/scale-to-width-down/512?cb=20220402110227",Señal Colombia
 #EXTVLCOPT:network-caching=1000
 http://wispcinema.sytes.net:25461/obedchile/18112022/7507.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Teleantioquia-2024Nuevo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Nacionales",Teleantioquia
@@ -81,9 +81,9 @@ http://190.60.47.180:8000/play/a0gs/index.m3u8
 #EXTINF:0 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Teleantioquia-2024Nuevo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Teleantioquia
 #EXTVLCOPT:network-caching=1000
 http://wispcinema.sytes.net:25461/obedchile/18112022/1478.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Telecaf%C3%A9_logo.svg" group-title="Nacionales",Telecafe
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/960px-Telecaf%C3%A9_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Nacionales",Telecafe
 http://190.60.39.221:8000/play/a08d/index.m3u8
-#EXTINF:0 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/500px-Telecaf%C3%A9_logo.svg.png",Telecafe
+#EXTINF:0 group-title="Nacionales" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/960px-Telecaf%C3%A9_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",Telecafe
 #EXTVLCOPT:network-caching=1000
 http://190.60.47.180:8000/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Telecaribe2023.svg/revision/latest/scale-to-width-down/512?cb=20230505212807" group-title="Nacionales",Telecaribe
