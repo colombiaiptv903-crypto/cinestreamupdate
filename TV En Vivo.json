@@ -442,13 +442,13 @@ http://187.245.231.227:8000/play/a0si/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/red-bull-tv-int.png", Red Bull TV
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Sky_Sport_Bundesliga_2020.svg/revision/latest?cb=20201029130111",SKY BUNDESLIGA
+#EXTINF:0 group-title="Deportes" tvg-logo="https://images.seeklogo.com/logo-png/19/1/sky-sports-logo-png_seeklogo-198328.png",SKY BUNDESLIGA
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/ca028/index.m3u8
-#EXTINF:0 group-title="Deportes",sky la liga
+#EXTINF:0 group-title="Deportes" tvg-logo="https://images.seeklogo.com/logo-png/19/1/sky-sports-logo-png_seeklogo-198328.png",sky la liga
 #EXTVLCOPT:network-caching=1000
 http://181.119.215.61:8000/play/a07q/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Sports_Action_2026.svg/revision/latest/scale-to-width-down/512?cb=20260225145802",SKY SPORTS LA LIGA
+#EXTINF:0 group-title="Deportes" tvg-logo="https://images.seeklogo.com/logo-png/19/1/sky-sports-logo-png_seeklogo-198328.png",SKY SPORTS LA LIGA
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/ca030/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Tigo_Sports_2025_Vector.svg/revision/latest/scale-to-width-down/512?cb=20260414130819",Tigo Sports HD
@@ -477,7 +477,7 @@ http://38.224.22.255:8000/play/a0bf/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",TUDN
 #EXTVLCOPT:network-caching=1000
 http://181.119.215.61:8000/play/a07v/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230127192854",TUDN (MX)
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",TUDN (MX)
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/ca025/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="Deportes",TUDN USA
