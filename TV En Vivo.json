@@ -200,6 +200,9 @@ http://45.224.150.120:8000/play/a0vo/index.m3u8
 http://45.226.205.96:48000/play/a08y/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN COL 
 #EXTVLCOPT:network-caching=1000
+http://190.60.60.114:8000/play/a04p/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN COL 
+#EXTVLCOPT:network-caching=1000
 http://152.231.29.114:8000/play/a0qi/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN COL 
 #EXTVLCOPT:network-caching=1000
