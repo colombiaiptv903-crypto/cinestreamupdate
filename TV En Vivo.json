@@ -207,9 +207,6 @@ http://152.231.29.114:8000/play/a0qi/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN COL 
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a08y/index.m3u8
-#EXTINF:12 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN COL
-#EXTVLCOPT:network-caching=1000
-http://152.231.29.242:8000/play/a0fl/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://181.78.5.14:8000/play/a03k/index.m3u8
@@ -220,7 +217,7 @@ http://158.172.217.18:8000/play/a023/index.m3u8
 http://38.224.22.255:8000/play/a078/index.m3u8
 #EXTINF:12 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN MX
 http://45.185.162.124:8000/play/a08r/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN MX
+#EXTINF:12 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png",ESPN MX
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/ca033/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/ESPN_logo.png" group-title="Deportes",ESPN CHI
