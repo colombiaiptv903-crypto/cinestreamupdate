@@ -462,19 +462,19 @@ http://181.78.106.127:5000/play/a0qn/index.m3u8
 http://181.78.106.127:5000/play/ca026/index.m3u8
 #EXTINF:12 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png",TNT SPORTS
 http://38.224.22.255:8000/play/a0cg/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png", CL | TNT Sports
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png",TNT Sports
 #EXTVLCOPT:network-caching=1000
 http://181.78.88.113:9800/play/a0b2/index.m3u8
 #EXTINF:12 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png",TNT Sports Premium SD
 http://38.224.22.255:8000/play/a0b8/index.m3u8
 #EXTINF:11 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png",TNT Sports Premium
 http://45.224.150.120:8000/play/a0y1/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png", CL | TNT Sports Premium
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png",TNT Sports Premium
 #EXTVLCOPT:network-caching=1000
 http://181.78.88.113:9800/play/a0bz/index.m3u8
 #EXTINF:12 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png",TNT Sports Premiun HD
 http://38.224.22.255:8000/play/a0bf/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",tudn
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",TUDN
 #EXTVLCOPT:network-caching=1000
 http://181.119.215.61:8000/play/a07v/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230127192854",TUDN (MX)
@@ -483,10 +483,10 @@ http://181.78.106.127:5000/play/ca025/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="Deportes",TUDN USA
 #EXTVLCOPT:network-caching=1000
 http://181.78.106.127:5000/play/ca036/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png" group-title="Deportes", DEP | TyC Sports Argentina
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/34/1/tyc-sports-logo-png_seeklogo-340604.png" group-title="Deportes",TyC Sports Argentina
 #EXTVLCOPT:network-caching=1000
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Tycsports2026.svg/revision/latest?cb=20260602013902", DEP | TyC Sports Int.
+#EXTINF:0 group-title="Deportes" tvg-logo="https://images.seeklogo.com/logo-png/34/1/tyc-sports-logo-png_seeklogo-340604.png",TyC Sports Int.
 #EXTVLCOPT:network-caching=1000
 http://45.186.254.75:8000/play/a08n/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ufc-us.png" group-title="Deportes", UFC
